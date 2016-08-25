@@ -1,0 +1,9 @@
+Building KaneCoin
+
+See doc/readme-qt.rst for instructions on building KaneCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KaneCoin.
+
+See doc/build-*.txt for instructions on building kanecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KaneCoin.
